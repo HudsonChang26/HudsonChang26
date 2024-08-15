@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HudsonChang26
+- 👋 Hi, I’m HC
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on computer science
